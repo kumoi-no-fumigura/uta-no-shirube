@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/uta-no-shirube",
  "yomi": "うたのしるべ",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書",
+  "era": "江戸後期",
+  "author": "藤井高尚（1764〜1840）",
+  "desc": "歌は何のために詠むものかをまず明らかにせよと説き、定家・為家・阿仏尼らの歌学書にもふれつつ、歌のさま・事の心・情と詞について初学者に向けて述べる。"
+ },
  "editions": [
   {
    "pid": "993381",
